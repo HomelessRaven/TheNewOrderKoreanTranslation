@@ -994,7 +994,7 @@
  operative_master_interrogator:0 "Master Interrogator"
  operative_master_interrogator_desc:1 "This Operative has ways of making people talk."
  operative_linguist:0 "Linguist"
- operative_linguist_desc:1 "This Operative is a natural at picking up new languages.\n\n §GIncreased chance§! to acquire target nationality on completion of an operation."
+ operative_linguist_desc:1 "This Operative is a natural at picking up new languages.\n\n§GIncreased chance§! to acquire target nationality on completion of an operation."
  operative_double_agent:0 "Double Agent"
  operative_double_agent_desc:0 "This Operative has been turned from the enemy into our service."
  operative_tough:0 "Tough"
